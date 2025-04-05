@@ -6,9 +6,6 @@ I love challenges and constantly seek growth! 🚀
 
 ---
 
-➡ JavaScript (ES6+)
-➡ Java
-➡ React.js
-
 ## 🛠 Technologies I've been working with
 
+**JavaScript (ES6+)** • **Java** • **React.js** • **Express**
