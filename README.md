@@ -3,3 +3,16 @@
 **Hi, I'm Leester!**  
 A curious learner who thrives on exploring new knowledge, tech, and scientific advancements.  
 I love challenges and constantly seek growth! 🚀
+
+Tech Stack:
+Languages: Java, JavaScript,
+
+Frameworks & Libraries: React
+
+Web Technologies: HTML5, CSS, JavaScriptES6
+
+Databases: MySQL, MongoDB
+
+Tools: Figma, 
+
+
