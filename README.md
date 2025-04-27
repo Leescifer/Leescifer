@@ -16,7 +16,9 @@ I love challenges and constantly seek growth!
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Leescifer&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leescifer&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 
 
 
