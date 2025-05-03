@@ -6,7 +6,7 @@ Who thrives on exploring new knowledge, tech, and scientific advancements.<br>
 I love challenges and constantly seek growth!
 
 ### 💻 Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -16,7 +16,10 @@ I love challenges and constantly seek growth!
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=leescifer&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leescifer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+
 
 
 
